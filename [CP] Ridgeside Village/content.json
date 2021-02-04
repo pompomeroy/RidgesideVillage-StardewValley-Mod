@@ -6,19 +6,19 @@
 		"RepeatCableCarCutscene": {
 			"AllowValues": "true, false",
 			"Default": "true",
-			"Description": "Repeat cable car cutscene everytime player uses the Cable Car"
+			"Description": "{{i18n:Config1}}"
 		},
 		
 		"EnableOtherNPCsInCableCar": {
 			"AllowValues": "true, false",
 			"Default": "true",
-			"Description": "Enable the chances of other NPCs to appear riding the Cable Car (Along with LASV, ES and SVE NPCs)"
+			"Description": "{{i18n:Config2}}"
 		},
 		
 		"EnableVillageMusic": {
 			"AllowValues": "true, false",
 			"Default": "true",
-			"Description": "Enable the custom music to play in Ridgeside Village"
+			"Description": "{{i18n:Config3}}"
 		},
 
    },
@@ -88,7 +88,7 @@
 		{
 		//Alone
 		"Name": "BONFIREEVENT",
-		"Value": "/warp farmer 40 49/faceDirection farmer 0/fade/viewport 39 46/pause 2000/move farmer 0 -5 0/pause 1000/playSound backpackIN/addObject 40 42 294/pause 2000/message \"..And my new year resolutions are..\"/pause 3000/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp farmer 40 48/faceDirection farmer 0/",
+		"Value": "/warp farmer 40 49/faceDirection farmer 0/fade/viewport 39 46/pause 2000/move farmer 0 -5 0/pause 1000/playSound backpackIN/addObject 40 42 294/pause 2000/message \"{{i18n:EoR.19}}\"/pause 3000/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp farmer 40 48/faceDirection farmer 0/",
 		},
 //		{
 		//With Spouse
@@ -101,7 +101,7 @@
 		//Sam Band Only
 		{
 		"Name": "RSVGATHER",
-		"Value": "/warp Sam 85 40/showFrame Sam 20/showFrame Abigail 49/showFrame Sebastian 42/fade/viewport 85 43/pause 800/speak Sam \"..and a one.. and a two.. and a..\"/",
+		"Value": "/warp Sam 85 40/showFrame Sam 20/showFrame Abigail 49/showFrame Sebastian 42/fade/viewport 85 43/pause 800/speak Sam \"{{i18n:RSVG.14}}\"/",
 		"When": { "HasSeenEvent: |contains=75160120": false },
 		},
 		{
@@ -112,7 +112,7 @@
 		//Sam Band and Alissa
 		{
 		"Name": "RSVGATHER",
-		"Value": "/warp Alissa 85 40/faceDirection Alissa 2/showFrame Sam 20/showFrame Abigail 49/showFrame Sebastian 42/fade/viewport 85 43/pause 800/speak Sam \"..and a one.. and a two.. and a..\"/",
+		"Value": "/warp Alissa 85 40/faceDirection Alissa 2/showFrame Sam 20/showFrame Abigail 49/showFrame Sebastian 42/fade/viewport 85 43/pause 800/speak Sam \"{{i18n:RSVG.14}}\"/",
 		"When": { "HasSeenEvent: |contains=75160120": true },
 		},
 		{
@@ -229,13 +229,13 @@
 	//Event Dialogues
 	{
    "Action": "Include",
-   "FromFile": "Data/EventDialogues.json",
+   "FromFile": "Data/EventDialogues/{{Language}}.json",
 	},
 	
 	//Festival Dialogue
 	{
    "Action": "Include",
-   "FromFile": "Data/FestivalDialogue.json",
+   "FromFile": "Data/FestivalDialogue/{{Language}}.json",
 	},
 	
 	//FishData
@@ -259,7 +259,7 @@
 	//Mail
 	{
    "Action": "Include",
-   "FromFile": "Data/Mail.json",
+   "FromFile": "Data/Mail/{{Language}}.json",
 	},
 	
 	//Map Patches
@@ -271,7 +271,7 @@
 	//Map Strings
 	{
    "Action": "Include",
-   "FromFile": "Data/MapStrings.json",
+   "FromFile": "Data/MapStrings/{{Language}}.json",
 	},
 	
 	//Monsters
@@ -283,7 +283,7 @@
 	//Movie Data
 	{
    "Action": "Include",
-   "FromFile": "Data/MovieData.json",
+   "FromFile": "Data/MovieData/{{Language}}.json",
 	},
 	
 	//NPC Data
@@ -295,7 +295,7 @@
 	//Romance
 	{
    "Action": "Include",
-   "FromFile": "Data/Romance.json",
+   "FromFile": "Data/Romance/{{Language}}.json",
 	},
 	
 	//World Map
