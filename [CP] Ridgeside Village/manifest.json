@@ -38,5 +38,9 @@
 		"UniqueID": "SuperAardvark.AntiSocial",
 		"IsRequired": true,
 	   },
+	   {
+		"UniqueID": "flashshifter.immersivefarm2remastered",
+		"IsRequired": false,
+	   },
    ]
 }
