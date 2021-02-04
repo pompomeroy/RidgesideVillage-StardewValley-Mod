@@ -1,0 +1,292 @@
+{
+
+//-------------
+//Miscellaneous
+//-------------
+
+"Find.Undreya": "Huh? Who are you!?#You managed to spot me huh... Maybe you're who he meant...# Uhmm.. Hey, return here tomorrow night, same time. I want to meet you properly.",
+
+//-------------------
+//Conversation topics
+//-------------------
+
+//Greenhouse Unlock 
+
+"RSV.GH1.Alissa": "I can't wait to plant some crops inside the Greenhouse.#$b#There's also a great echo in here for sing...$h#$b#...for talking.$u ",
+"RSV.GH1.Jeric": "Oh wow! A Greenhouse! This is exciting!$h#$b#I can plant exotic crops from all over the valley here!$h#$b#Maybe even Starfruit!$h",
+"RSV.GH1.Maddie": "Teehee, I can make my own little fairytale garden inside the Greenhouse.$h#$b#Huh?#$b#What?$u#$b#N-no, you heard nothing!$a",
+"RSV.GH1.Olga": "I'll be growing lots of flowers inside the Greenhouse!$h#$b#Thank Yoba, my floral dreams will finally come true!$h",
+"RSV.GH1.Lenny": "The ones who have personal plots in the first Greenhouse besides you are Jeric, Alissa, Olga, and Maddie.#$b#I'm quite curious about Maddie's intentions with the Greenhouse, though.#$b#Either way, I'm glad it's being used to the fullest extent.$h",
+
+//Keahi Stink Bomb Prank
+
+"keahiprank.Alissa": "Hey, uhm, @?#$b#You seem to be really stinky.$s#$b#Uhm, I hope that wasn't rude.$s",
+"keahiprank.Corine": "@? You're really smelly.$s#$b#Can you take a shower before socializing?$s",
+"keahiprank.Flor": "Uhmm... @? Did you forget to take a shower?$s",
+"keahiprank.Maddie": "What's that pungent smell?$a#$b#Oh! It's you!#$b#Please conform to societal hygiene standards!$a",
+"keahiprank.Ysabelle": "%Ysabelle sniffs you before she almost throws up. #$b#Uh, @? I advise you take a shower immediately.$a",
+
+"keahiprank.Ian": "What's that smell?$a#$b#Oh! It's coming from you!$u#$b#Uhmm... hard work does make one sweaty sometimes, right?$s#$b#But @, I think you jumped the whale.$s",
+"keahiprank.Jeric": "Oh wow, what's that smell!?$a#$b#I'm gonna vomit!$s",
+"keahiprank.Kenneth": "Hey @? Is that odor coming from you?$s#$b#Uhm, did you step on something?$s",
+"keahiprank.Philip": "%Philip looks like he's going to be sick.$u#$b#What's that supernatural smell?$u",
+"keahiprank.Shiro": "Oh... that smell is making me dizzy.$s#$b#Where is that odor coming from!?$a",
+
+"keahiprank.Aguar": "You smell like sulphur.#$b#Perhaps you should bathe yourself more often, @.",
+"keahiprank.Bert": "Is that smell coming from you?$u#$b#Oh Yoba, release me from this pungent smell!$s",
+"keahiprank.Ezekiel": "Bah! You smell like week-old goat milk!$a#$b#Get away from me!$a",
+"keahiprank.Freddie": "Even with this old nose, I can still say that there's something really wrong with that smell.$s",
+"keahiprank.Jio": "You smell like a swamp spirit.#$b#Please leave.$h",
+"keahiprank.Kiwi": "Kiwi think you smell!$s#$b#Don't come close or Kiwi stab!#a",
+"keahiprank.Lenny": "Do you smell it?$u#$b#That smell.$a#$b#A kind of smelly smell.$s#$b#The smelly smell that smells... smelly.$s#$b#By any chance, Did you meet Keahi today @?$4",
+"keahiprank.Lola": "@, dear...#$b#You might want to take a shower.$s",
+"keahiprank.Olga": "Oh no, he's done it again!$a#$b#Keahi is really going to meet his maker today!$a",
+"keahiprank.Pika": "Ah, you smell like the Pua Kupapau.$h#$b#A flower known for its pungent aroma.#$b#It's also known as the corpse flower because of the putrid smell.",
+"keahiprank.Richard": "Oh no! Not in my hotel you don't!$a#$b#Go take a bath first!$a",
+
+"keahiprank.Keahi": "Ooohh! That STINKS!$h#$b#You REALLY should take a bath, @.$4",
+"keahiprank.Trinnie": "Hey @$u#$b#You're really REALLY stinky!$h",
+"keahiprank.Jas": "Ew!$s#$b#You smell like Aunt Marnie's cows!$s",
+"keahiprank.Vincent": "Hey! What's that smell?#$b#AHHH, MY NOSE IS DYING!$s",
+"keahiprank.Yuuma": "You should take a bath.#$b#You kind of smell.",
+
+"keahiprank.Abigail": "What's that smell!?$s#$b#It smells evil!$s",
+"keahiprank.Emily": "Oh my.$s#$b#It smells like the month-old pizza I found in Gus' cellar.$s",
+"keahiprank.Haley": "You stink!$a#$b#Don't come near me!$a",
+"keahiprank.Leah": "I think it's good to be one with nature and all @...#$b#But I think you're taking it a bit too far by not taking a bath.$s",
+"keahiprank.Maru": "That smell is NOT healthy!$s",
+"keahiprank.Penny": "Is that smell coming from you, @?$s#$b#Oh, uhm...#$b#%Penny starts walking away slowly.",
+
+"keahiprank.Alex": "%Alex is pinching his nose.#$b#You okay there, @?$s",
+"keahiprank.Elliott": "Oh my, You smell quite... exotic.$s#$b#Perhaps a dip in the water could clear this aroma?$s",
+"keahiprank.Harvey": "That smell...#$b#Do you have a medical issue?$s#$b#It's okay, you know...#$b#I won't judge you as a medical practitioner.",
+"keahiprank.Sam": "Woah! You smell that?!$a#$b#Where's that coming from!? It's really gross!$s",
+"keahiprank.Sebastian": "Did you forget to take a bath or something, @?",
+"keahiprank.Shane": "Don't come near me with that smell!$a#$b#Take a bath.$a",
+
+"keahiprank.Caroline": "Did you just do some aerobics?#$b# It's pretty much customary to take a shower after, you know...$s",
+"keahiprank.Clint": "It's not my business to tell you this.#$b#But you may have forgotten to take a shower today.$s",
+"keahiprank.Demetrius": "That smell... I know this smell.#$b#It's from a local species of stink bug found in the mountains.#$b#Did you... sit on it?",
+"keahiprank.Evelyn": "Oh dear, that smells horrible!$s",
+"keahiprank.George": "Your smell is bothering me!#$b#Please leave my house!$a",
+"keahiprank.Gus": "Uh, @? Can you get out of my Saloon?$s#$b#You smell horrible!$s",
+"keahiprank.Jodi": "Oh no, don't tell me. Was it Vincent or Keahi?#$b#Or was it both of them!?$s#$b#I think one of them pranked you...$s",
+"keahiprank.Kent": "Gross. Do you ever shower?$a",
+"keahiprank.Lewis": "Listen, @. Working hard is good, but I think you should learn to shower and relax once in a while.$s#$b#You're stinking up the town.$s",
+"keahiprank.Linus": "Ouch, got hit by the Ridgeside stink bug, huh?#$b#Been there, done that.#$b#Tt was a nightmare to get off.#$b#Took me hours of scrubbing.$s",
+"keahiprank.Marnie": "What's that smell? That can't be any of my cows!$s#$b#Uhm, @? Is that you?$s",
+"keahiprank.Pam": "What in Yoba's name is that smell? It's horrible!$s#$b#You make me wish I had no nose!$a",
+"keahiprank.Pierre": "That smell is bad for business.$s#$b#I suggest you come back after you've taken a shower, @.$s",
+"keahiprank.Robin": "What's that smell? Is it you?$s#$b#No judgement here! But you really need to take a bath, @.",
+"keahiprank.Sandy": "Ah, it smells like the Ridgeside stink bug.$h#$b#Pungent? Yes.#$b#But it makes me miss the valley.$s",
+"keahiprank.Willy": "That smell would scare all the fish away.#$b#You need to take a bath, @.",
+"keahiprank.Wizard": "That smell is evil!$a#$b#Begone!$a",
+
+//Keahi 6 heart event Trinnie dialogue after event
+
+"keahisorry.Trinnie": "Teehee < Keahi baked me a cake!$h",
+"keahinosorry.Trinnie": "Hmph! That stupid Keahi!$a#$b# He didn't even bother to say sorry.$s",
+
+
+//----------------
+//Festival Diaogue
+//----------------
+
+//Ember of Resolutons (winter 28)
+
+"embernight.Alissa": "",
+"embernight.Corine": "",
+"embernight.Flor": "",
+"embernight.Maddie": "",
+"embernight.Ysabelle": "",
+
+"embernight.spouse.Alissa": "",
+"embernight.spouse.Corine": "",
+"embernight.spouse.Flor": "",
+"embernight.spouse.Maddie": "",
+"embernight.spouse.Ysabelle": "",
+
+"embernight.Ian": "",
+"embernight.Jeric": "",
+"embernight.Kenneth": "",
+"embernight.Philip": "",
+"embernight.Shiro": "",
+
+"embernight.spouse.Ian": "",
+"embernight.spouse.Jeric": "",
+"embernight.spouse.Kenneth": "",
+"embernight.spouse.Philip": "",
+"embernight.spouse.Shiro": "",
+
+"embernight.Aguar": "",
+"embernight.Bert": "",
+"embernight.Ezekiel": "",
+"embernight.Freddie": "",
+"embernight.Jio": "",
+"embernight.Kiwi": "",
+"embernight.Lenny": "",
+"embernight.Lola": "",
+"embernight.Olga": "",
+"embernight.Pika": "",
+"embernight.Richard": "",
+
+"embernight.Keahi": "",
+"embernight.Trinnie": "",
+"embernight.Jas": "",
+"embernight.Vincent": "",
+"embernight.Yuuma": "",
+
+"embernight.Abigail": "",
+"embernight.Emily": "",
+"embernight.Haley": "",
+"embernight.Leah": "",
+"embernight.Maru": "",
+"embernight.Penny": "",
+
+"embernight.spouse.Abigail": "",
+"embernight.spouse.Emily": "",
+"embernight.spouse.Haley": "",
+"embernight.spouse.Leah": "",
+"embernight.spouse.Maru": "",
+"embernight.spouse.Penny": "",
+
+"embernight.Alex": "",
+"embernight.Elliott": "",
+"embernight.Harvey": "",
+"embernight.Sam": "",
+"embernight.Sebastian": "",
+"embernight.Shane": "",
+
+"embernight.spouse.Alex": "",
+"embernight.spouse.Elliott": "",
+"embernight.spouse.Harvey": "",
+"embernight.spouse.Sam": "",
+"embernight.spouse.Sebastian": "",
+"embernight.spouse.Shane": "",
+
+"embernight.Caroline": "",
+"embernight.Clint": "",
+"embernight.Demetrius": "",
+"embernight.Evelyn": "",
+"embernight.George": "",
+"embernight.Gus": "",
+"embernight.Jodi": "",
+"embernight.Kent": "",
+"embernight.Lewis": "",
+"embernight.Linus": "",
+"embernight.Marnie": "",
+"embernight.Pam": "",
+"embernight.Pierre": "",
+"embernight.Robin": "",
+"embernight.Sandy": "",
+"embernight.Willy": "",
+"embernight.Wizard": "",
+
+//Ridgeside Gathering (fall 20)
+
+"rsvgathering.Alissa": "",
+"rsvgathering.Corine": "",
+"rsvgathering.Flor": "",
+"rsvgathering.Maddie": "",
+"rsvgathering.Ysabelle": "",
+
+"rsvgathering.spouse.Alissa": "",
+"rsvgathering.spouse.Corine": "",
+"rsvgathering.spouse.Flor": "",
+"rsvgathering.spouse.Maddie": "",
+"rsvgathering.spouse.Ysabelle": "",
+
+"rsvgathering.Ian": "",
+"rsvgathering.Jeric": "",
+"rsvgathering.Kenneth": "",
+"rsvgathering.Philip": "",
+"rsvgathering.Shiro": "",
+
+"rsvgathering.spouse.Ian": "",
+"rsvgathering.spouse.Jeric": "",
+"rsvgathering.spouse.Kenneth": "",
+"rsvgathering.spouse.Philip": "",
+"rsvgathering.spouse.Shiro": "",
+
+"rsvgathering.Aguar": "",
+"rsvgathering.Bert": "",
+"rsvgathering.Ezekiel": "",
+"rsvgathering.Freddie": "",
+"rsvgathering.Jio": "",
+"rsvgathering.Kiwi": "",
+"rsvgathering.Lenny": "",
+"rsvgathering.Lola": "",
+"rsvgathering.Olga": "",
+"rsvgathering.Pika": "",
+"rsvgathering.Richard": "",
+
+"rsvgathering.Keahi": "",
+"rsvgathering.Trinnie": "",
+"rsvgathering.Jas": "",
+"rsvgathering.Vincent": "",
+"rsvgathering.Yuuma": "",
+
+"rsvgathering.Abigail": "",
+"rsvgathering.Emily": "",
+"rsvgathering.Haley": "",
+"rsvgathering.Leah": "",
+"rsvgathering.Maru": "",
+"rsvgathering.Penny": "",
+
+"rsvgathering.spouse.Abigail": "",
+"rsvgathering.spouse.Emily": "",
+"rsvgathering.spouse.Haley": "",
+"rsvgathering.spouse.Leah": "",
+"rsvgathering.spouse.Maru": "",
+"rsvgathering.spouse.Penny": "",
+
+"rsvgathering.Alex": "",
+"rsvgathering.Elliott": "",
+"rsvgathering.Harvey": "",
+"rsvgathering.Sam": "",
+"rsvgathering.Sebastian": "",
+"rsvgathering.Shane": "",
+
+"rsvgathering.spouse.Alex": "",
+"rsvgathering.spouse.Elliott": "",
+"rsvgathering.spouse.Harvey": "",
+"rsvgathering.spouse.Sam": "",
+"rsvgathering.spouse.Sebastian": "",
+"rsvgathering.spouse.Shane": "",
+
+"rsvgathering.Caroline": "",
+"rsvgathering.Clint": "",
+"rsvgathering.Demetrius": "",
+"rsvgathering.Evelyn": "",
+"rsvgathering.George": "",
+"rsvgathering.Gus": "",
+"rsvgathering.Jodi": "",
+"rsvgathering.Kent": "",
+"rsvgathering.Lewis": "",
+"rsvgathering.Linus": "",
+"rsvgathering.Marnie": "",
+"rsvgathering.Pam": "",
+"rsvgathering.Pierre": "",
+"rsvgathering.Robin": "",
+"rsvgathering.Sandy": "",
+"rsvgathering.Willy": "",
+"rsvgathering.Wizard": "",
+
+
+//--------------------
+//Event Fork Dialogues
+//--------------------
+
+
+
+}
+
+        
+          
+
+
+
+
+
+
+

@@ -135,7 +135,7 @@
 				"Position": { "X": 28, "Y": 32 },
 				"Layer": "Buildings",
 				"SetProperties": {
-				"Action": "MessageOnce 75160181 '???: Huh? Who are you!?#You managed to spot me huh... Maybe you're who he meant...# Uhmm.. Hey, return here tomorrow night, same time. I want to meet you properly.'"
+				"Action": "MessageOnce 75160181 '???: {{i18n:Find.Undreya}}'"
                }
             }
 		],
